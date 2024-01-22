@@ -1,0 +1,14 @@
+.red{
+    color: red;
+    border: 1px solid red;
+}
+
+.blue{
+    color: blue;
+    border: 1px solid blue;
+}
+
+.footer{
+    text-align: center;
+    background-color: grey;
+}
